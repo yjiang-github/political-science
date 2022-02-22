@@ -51,20 +51,20 @@ basically api_1 is for streaming, and api_2 is for re-collecting tweets by using
 --- my first key and secret ---
 ​
 """
-consumer_key_1 = 'TEwiZkRDZjQWNIN8iby0TxDqX'  
-consumer_secret_1 = 'l5g2Ngz97QwoebkpZ0HS6P3NFpv7Vw3scDGFIwBJEYtYXP9u4D'  
-access_token_key_1 = '4876272161-kAVjVVZh02fYKTDeBru1AEftljoD0nqu1Tkbe7e'  
-access_token_secret_1 = '594QERevczZ2osedoAf66ckXU5hf7IGoF1JusRvTHqDME'  
+consumer_key_1 = ''  
+consumer_secret_1 = ''  
+access_token_key_1 = ''  
+access_token_secret_1 = ''  
 
 
 """
 --- my second key and secret ---
 ​
 """
-consumer_key_2 = '6slRPLpFeJqGRWZ1DZ5uWQ7TF'  
-consumer_secret_2 = 'r1tSESMauPzT24cM5O9zMh1SjPxXvhEjp1pqxz7CT98fE466jU'  
-access_token_key_2 = '4876272161-yNb6YwyGSBBmI359nf7A1EYqjdKQ6hbv2Ky2SKS'  
-access_token_secret_2 = 'nurDZsufBpL126vrBMik3Bu3zNMiyWRa1uSA8OuyQvo5O' 
+consumer_key_2 = ''  
+consumer_secret_2 = ''  
+access_token_key_2 = ''  
+access_token_secret_2 = '' 
 
 
 """
